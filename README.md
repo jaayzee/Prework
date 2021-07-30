@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/Y94PRa3' title='tipCalc' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/Y94PRa3.gif' title='tipCalc' width='' alt='tipCalc' />
 
 GIF created with [ezgif](https://ezgif.com/video-to-gif).
 
